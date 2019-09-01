@@ -6,9 +6,9 @@ If you can't read Japanese , please translate this.
 ## このリポジトリについて
 
 このリポジトリは、
-(https://github.com/yoyoyo-yo/Gasyori100knock/)[画像処理100本ノック(yoyoyo-yo様)]
+[画像処理100本ノック(yoyoyo-yo様)](https://github.com/yoyoyo-yo/Gasyori100knock/)
 ×
-(https://www.amazon.co.jp/dp/4873115655/ref=cm_sw_em_r_mt_dp_U_0D2ADbWE19VQQ)[リーダブルコード]
+[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/ref=cm_sw_em_r_mt_dp_U_0D2ADbWE19VQQ)
 をテーマとした勉強会用リポジトリです。
 
 主に自分用、ちょっぴり同期社員のため。そんな感じのゆるゆるリポジトリです。
